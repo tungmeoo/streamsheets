@@ -1,4 +1,1 @@
-<svg fill="#888888" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-    <rect stroke-width="3" stroke="#888888" x="2" y="7" width="20" height="10"/>
-    <text fill="white" text-anchor="middle" font-size="6pt" dominant-baseline="central" x="12" y="12">OK</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#888" viewBox="0 0 24 24"><rect width="20" height="10" x="2" y="7" stroke="#888" stroke-width="3"/><text x="12" y="12" fill="#fff" dominant-baseline="central" font-size="8" text-anchor="middle">OK</text></svg>
